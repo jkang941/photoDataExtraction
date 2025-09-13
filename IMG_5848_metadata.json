@@ -1,0 +1,19 @@
+{
+  "source_image": "/Users/josephkang/GitHub/photoDataExtraction/IMG_5848.heic",
+  "image_width": 4032,
+  "image_height": 3024,
+  "format": "HEIF",
+  "mode": "RGB",
+  "exif": {},
+  "depth": {
+    "has_depth": false,
+    "depth_png_path": null,
+    "depth_width": null,
+    "depth_height": null,
+    "depth_dtype": null,
+    "depth_min": null,
+    "depth_max": null,
+    "depth_mean": null,
+    "aux_type": null
+  }
+}
